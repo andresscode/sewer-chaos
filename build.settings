@@ -1,0 +1,33 @@
+settings = 
+{ 
+        orientation = 
+        { 
+                default = "landscapeLeft",
+                supported = 
+                { 
+                        "landscapeLeft", "landscapeRight" 
+                } 
+        },
+        
+        iphone =
+    {
+        plist =
+        {
+                UIInterfaceOrientation = "UIInterfaceOrientationLandscapeLeft",
+                        UISupportedInterfaceOrientations =
+            {
+                "UIInterfaceOrientationLandscapeLeft",
+                "UIInterfaceOrientationLandscapeRight"
+            },
+            CFBundleIconFile = "Icon.png",
+            CFBundleIconFiles = 
+            {
+                "Icon.png" , 
+                "Icon@2x.png"
+            },
+            UIApplicationExitsOnSuspend = false,
+            UIStatusBarHidden=true,
+            UIPrerenderedIcon = true
+        }
+     }
+}

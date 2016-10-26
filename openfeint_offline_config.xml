@@ -1,0 +1,21 @@
+<resources>
+<game_profile_page_info>
+  <is_owned_by_local_player>true</is_owned_by_local_player>
+  <short_name></short_name>
+  <has_chat_rooms>false</has_chat_rooms>
+  <timestamp>2012-04-07 23:54:46</timestamp>
+  <has_challenges>false</has_challenges>
+  <icon_url nil="true"></icon_url>
+  <suggestions_topic_id>1458264</suggestions_topic_id>
+  <has_achievements>false</has_achievements>
+  <has_featured_application>true</has_featured_application>
+  <has_leaderboards>false</has_leaderboards>
+  <name>Sewer Chaos</name>
+  <has_ipurchase>false</has_ipurchase>
+  <id>479694</id>
+</game_profile_page_info>
+<offline>
+<timestamp>2012-04-07 23:54:46</timestamp>
+</offline>
+
+</resources>
